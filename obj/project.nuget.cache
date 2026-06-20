@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OI9pCvHthKk=",
+  "success": true,
+  "projectFilePath": "/home/kaua/jogo_MACAM/jogo_MACAM.csproj",
+  "expectedPackageFiles": [
+    "/home/kaua/.nuget/packages/raylib-cs/8.0.0/raylib-cs.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
